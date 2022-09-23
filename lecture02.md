@@ -1,1 +1,3 @@
-aaa
+#lecture02
+-git
+-github
