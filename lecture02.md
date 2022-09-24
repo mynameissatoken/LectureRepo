@@ -1,3 +1,3 @@
-#lecture02
--git
--github
+# lecture02
+- git
+- github
